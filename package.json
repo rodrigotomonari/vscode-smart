@@ -5,7 +5,7 @@
   "license": "MIT",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.40.0"
+    "vscode": "^1.52.0"
   },
   "categories": [
     "Other"
@@ -18,7 +18,7 @@
     "commands": [
       {
         "command": "smart-vscode.smartQuickOpen",
-        "title": "Hello World"
+        "title": "Smart quick navigate"
       }
     ],
     "keybindings": [
