@@ -7,6 +7,7 @@ Extension to help to navigate in Smart codebase
 ## Default shortcut
 
 OSX: shift+cmd+i
+
 Windows: ctrl+shift+i
 
 ## Requirements
